@@ -1,7 +1,7 @@
 ### Hi there, I'm Mahek Khowala 👋
 
 I am a web developer. I am passionate to learn and build new things and have keen interest in Machine Learning, Artificial Intelligence, Data Science and UI/UX designing.
-I'm currently pursuing B.E. in Computer Engineering at [Thapar Institiute of Engineering & Technology](http://www.thapar.edu/)
+I'm currently pursuing B.E. in Computer Engineering from [Thapar Institiute of Engineering & Technology](http://www.thapar.edu/).
 
 ## About Me
 
@@ -18,8 +18,6 @@ I'm currently pursuing B.E. in Computer Engineering at [Thapar Institiute of Eng
 <a href="https://www.linkedin.com/in/mahek-khowala/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://www.facebook.com/mahek.khowala3"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href="https://www.instagram.com/mahek_khowala/?hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
-
-<br />
 
 ### Languages and Tools:
 
@@ -61,10 +59,3 @@ I'm currently pursuing B.E. in Computer Engineering at [Thapar Institiute of Eng
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
 </p>
-
-<br />
-<br />
-
-<a href="#!">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mac2503&show_icons=true&include_all_commits=true&theme=radical" alt="Mahek's GitHub Stats" />
-</a>
