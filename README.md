@@ -13,12 +13,6 @@ I'm currently pursuing B.E. in Computer Engineering from [Thapar Institiute of E
 - 😄 Pronouns - She/Her
 - ⚡ Fun fact: I love to bake & watch movies
 
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/mahek-khowala/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
-<a href="https://www.facebook.com/mahek.khowala3"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
-<a href="https://www.instagram.com/mahek_khowala/?hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
-
 ### Languages and Tools:
 
 <p align="left"> 
@@ -59,3 +53,9 @@ I'm currently pursuing B.E. in Computer Engineering from [Thapar Institiute of E
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
 </p>
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/mahek-khowala/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.facebook.com/mahek.khowala3"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+<a href="https://www.instagram.com/mahek_khowala/?hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
