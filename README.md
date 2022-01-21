@@ -1,4 +1,4 @@
-### Hi there, I'm Mahek Khowala 👋
+## Hi there, I'm Mahek Khowala 👋
 
 I am a web developer. I am passionate to learn and build new things and have keen interest in Machine Learning, Artificial Intelligence, Data Science and UI/UX designing.
 I'm currently pursuing B.E. in Computer Engineering from [Thapar Institiute of Engineering & Technology](http://www.thapar.edu/).
@@ -62,10 +62,8 @@ I'm currently pursuing B.E. in Computer Engineering from [Thapar Institiute of E
 
 ## My Github Stats
 
-  <br/>
-    <a href="https://github.com/mac2503/github-readme-stats"><img alt="Mahek Khowala's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mac2503&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/mac2503/github-readme-stats"><img alt="Mahek Khowala's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mac2503&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mac2503/github-readme-stats"><img alt="Mahek Khowala's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mac2503&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
 
 ## Connect with me:
 
