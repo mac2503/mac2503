@@ -62,6 +62,6 @@ I'm currently pursuing B.E. in Computer Engineering from [Thapar Institiute of E
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/mahek-khowala/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
-<a href="https://www.facebook.com/mahek.khowala3"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
-<a href="https://www.instagram.com/mahek_khowala/?hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/mahek-khowala/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="60"></a>
+<a href="https://www.facebook.com/mahek.khowala3"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="60"></a>
+<a href="https://www.instagram.com/mahek_khowala/?hl=en"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="60"></a>
