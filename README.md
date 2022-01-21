@@ -13,7 +13,7 @@ I'm currently pursuing B.E. in Computer Engineering from [Thapar Institiute of E
 - 😄 Pronouns - She/Her
 - ⚡ Fun fact: I love to bake & watch movies
 
-### Languages and Tools:
+## Languages and Tools:
 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -60,7 +60,14 @@ I'm currently pursuing B.E. in Computer Engineering from [Thapar Institiute of E
   </a> 
 </p>
 
-### Connect with me:
+## My Github Stats
+
+  <br/>
+    <a href="https://github.com/mac2503/github-readme-stats"><img alt="Mahek Khowala's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mac2503&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mac2503/github-readme-stats"><img alt="Mahek Khowala's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mac2503&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+
+## Connect with me:
 
 <a href="https://www.linkedin.com/in/mahek-khowala/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" height="48"></a>
 <a href="https://www.facebook.com/mahek.khowala3"><img src="https://img.icons8.com/color/48/000000/facebook.png" width="48" height="48"></a>
