@@ -1,7 +1,7 @@
 ## Hi there, I'm Mahek Khowala 👋
 
 I am a web developer. I am passionate to learn and build new things and have keen interest in Machine Learning, Artificial Intelligence, Data Science and UI/UX designing.
-I'm currently pursuing B.E. in Computer Engineering from [Thapar Institiute of Engineering & Technology](http://www.thapar.edu/).
+I'm currently pursuing B.E. in Computer Engineering with majors in Data Science from [Thapar Institiute of Engineering & Technology](http://www.thapar.edu/).
 
 ## About Me
 
@@ -30,6 +30,9 @@ I'm currently pursuing B.E. in Computer Engineering from [Thapar Institiute of E
   </a> 
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.icons8.com/color/40/000000/mongodb.png" alt="MongoDB" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.icons8.com/office/40/000000/react.png" alt="React" width="40" height="40"/> 
   </a> 
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
