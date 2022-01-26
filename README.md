@@ -1,6 +1,6 @@
 ## Hi there, I'm Mahek Khowala 👋
 
-I am a web developer. I am passionate to learn and build new things and have keen interest in Machine Learning, Artificial Intelligence, Data Science and UI/UX designing.
+I am a web developer. I am passionate to learn and build new things and have keen interest in Machine Learning, Artificial Intelligence and Data Science.
 I'm currently pursuing B.E. in Computer Engineering with majors in Data Science from [Thapar Institiute of Engineering & Technology](http://www.thapar.edu/).
 
 ## About Me
