@@ -1,7 +1,7 @@
 ## Hi there, I'm Mahek Khowala 👋
 
 I am a web developer. I am passionate to learn and build new things and have keen interest in Machine Learning and Artificial Intelligence.
-I'm currently pursuing B.E. in Computer Engineering with majors in Data Science from [Thapar Institiute of Engineering & Technology](http://www.thapar.edu/).
+I'm currently pursuing B.E. in Computer Engineering with majors in Data Science from [Thapar Institiute of Engineering & Technology, Patiala](http://www.thapar.edu/).
 
 ## About Me
 
